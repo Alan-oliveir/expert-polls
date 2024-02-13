@@ -1,9 +1,8 @@
 # Expert Polls
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 ## Sobre
-Aplicação back-end com NodeJS para geração de enquetes usando Fastify e integrando com banco de dados PostgreSQL e Redis.
+Aplicação back-end com NodeJS para geração de enquetes usando Fastify e integrando com banco de dados PostgreSQL e Redis, com WebSocket para comunicação real-time.
 
 ## Tecnologias utilizadas
 
