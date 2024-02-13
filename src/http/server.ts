@@ -22,12 +22,6 @@ app.post("/polls", async (request, reply) => {
   return reply.status(201).send({ pollId: poll.id });
 });
 
-//app.post("/polls", (request) => {
-//console.log(request.body);
-
-///return "Hello World";
-//});
-
 app.listen({ port: 3333 }).then(() => {
   console.log("HTTP server is running on port 3333");
 });
